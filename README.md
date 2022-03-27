@@ -68,6 +68,10 @@ Company should monitor last month usage closely.
 
 ## Kaggle link
 [Leaderboard](https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-C33/leaderboard)
-
+  
+## Links and future work
+- [Blending](https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/)
+- Try MICE imputation
+  
 ## Contact
 Created by [@nvkhedkar] - feel free to contact me!
