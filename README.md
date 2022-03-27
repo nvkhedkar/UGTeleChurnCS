@@ -71,6 +71,7 @@ Company should monitor last month usage closely.
   
 ## Links and future work
 - [Blending](https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/)
+- [XGBoost vs LightGBM](https://neptune.ai/blog/xgboost-vs-lightgbm)
 - Try MICE imputation
   
 ## Contact
