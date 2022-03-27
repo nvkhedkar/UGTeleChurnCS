@@ -3,7 +3,6 @@ Telecom Churn Case Study
 
 ## Table of Contents
 * [Objectives](#objectives)
-* [General Info](#general-information)
 * [Models](#models)
 * [Recommendations](#recommendation)
 * [Kaggle link](#kaggle-link)
